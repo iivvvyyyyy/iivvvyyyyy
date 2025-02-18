@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iivvvyyyyy
-- 👀 I’m interested in living, laughing, loving
+- 👀 I’m interested in econ, data science, and public policy
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on fun fun projects
-- ⚡ Fun fact: hip hip hooray
+- 💞️ I’m looking to collaborate on new projects
 
 <!---
 iivvvyyyyy/iivvvyyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
